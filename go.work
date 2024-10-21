@@ -1,0 +1,10 @@
+go 1.23.2
+
+use (
+	./zenbtc
+	./zenrock-avs
+	./zenrock/bitcoin-proxy
+	./zenrock/keyring
+	./zrchain
+
+)
