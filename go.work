@@ -6,5 +6,5 @@ use (
 	./zenrock/bitcoin-proxy
 	./zenrock/keyring
 	./zrchain
-
+	./zenrock/tools/relayer
 )

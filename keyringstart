@@ -1,0 +1,3 @@
+cd zenrock/keyring/cmd/zenrockkms
+./zenrockkms --config=config-zenbtc.yml
+

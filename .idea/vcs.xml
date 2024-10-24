@@ -5,6 +5,18 @@
     <mapping directory="$PROJECT_DIR$/zenbtc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zenrock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zenrock-avs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/forge-std/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/openzeppelin-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/eigenlayer-contracts/lib/openzeppelin-contracts-upgradeable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/openzeppelin-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/eigenlayer-middleware/lib/openzeppelin-contracts-upgradeable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zenrock-avs/contracts/lib/forge-std/lib/ds-test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zrchain" vcs="Git" />
   </component>
 </project>
