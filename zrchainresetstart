@@ -1,3 +1,0 @@
-cd zrchain
-./reset.sh
-./start.sh

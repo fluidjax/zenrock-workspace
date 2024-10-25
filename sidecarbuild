@@ -1,5 +1,0 @@
-cd zrchain/sidecar
-rm -f sidecar
-go build -o sidecar
-
-

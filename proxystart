@@ -1,3 +1,0 @@
-cd zenrock/bitcoin-proxy
-go run cmd/main.go config_zenbtc.yml
-

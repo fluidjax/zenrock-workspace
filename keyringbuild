@@ -1,4 +1,0 @@
-cd zenrock/keyring/cmd/zenrockkms
-rm -f zenrockkms
-go build  -o zenrockkms
-

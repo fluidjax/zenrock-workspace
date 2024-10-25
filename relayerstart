@@ -1,3 +1,0 @@
-cd zenrock/tools/relayer/cmd/relayer
-go run main.go
-

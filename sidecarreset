@@ -1,5 +1,0 @@
-rm -rf zrchain/sidecar/neutrino/neutrino_testnet3
-mkdir -p zrchain/sidecar/neutrino/neutrino_testnet3
-rm -rf zrchain/sidecar/neutrino/neutrino_mainnet
-mkdir -p zrchain/sidecar/neutrino/neutrino_mainnet
-
