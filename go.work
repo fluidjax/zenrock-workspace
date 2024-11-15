@@ -8,3 +8,6 @@ use (
 	./zenrock/keyring
 	./zenrock/tools/relayer
 )
+
+replace github.com/Zenrock-Foundation/zrchain/v5 v5.2.1 => ./zrchain
+replace github.com/Zenrock-Foundation/zrchain/v5 v5.2.10 => ./zrchain

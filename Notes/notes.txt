@@ -1,0 +1,14 @@
+
+Create Address
+Add Funds
+Check Lock
+
+Trigger Burn Test
+Check Redemption List Pull
+Check TX generation
+Check TX Transmit to zrchain
+Add Decode + Check
+Check Signing
+Check Broadcast
+
+
