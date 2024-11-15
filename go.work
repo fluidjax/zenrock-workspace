@@ -2,9 +2,9 @@ go 1.23.2
 
 use (
 	./zenbtc
+	./zrchain
 	./zenrock-avs
 	./zenrock/bitcoin-proxy
 	./zenrock/keyring
-	./zrchain
 	./zenrock/tools/relayer
 )
