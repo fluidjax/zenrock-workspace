@@ -5,6 +5,17 @@ use (
 	./zenrock-avs
 	./zenrock/bitcoin-proxy
 	./zenrock/keyring
-	./zrchain
 	./zenrock/tools/relayer
+	./zrchain
 )
+
+replace github.com/Zenrock-Foundation/zrchain/v5 v5.0.1 => ./zrchain
+replace github.com/zenrocklabs/zenrock/zrchain => ./zrchain
+replace github.com/zenrocklabs/zenbtc v1 => ./zenbtc
+
+
+//replace github.com/Zenrock-Foundation/zrchain/v5 v5.0.1 => ./zrchain
+//replace github.com/Zenrock-Foundation/zrchain/v5/app  => ./zrchain
+//replace github.com/Zenrock-Foundation/zrchain/v5/cmd/zenrockd/cmd  => ./zrchain
+//replace github.com/Zenrock-Foundation/zrchain/v5/cmd/zenrockd/cmd  => ./zrchain
+//replace github.com/zenrocklabs/zenbtc/x/zenbtc/types => ./zenbtc
