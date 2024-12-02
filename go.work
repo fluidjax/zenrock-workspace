@@ -1,6 +1,7 @@
 go 1.23.2
 
 use (
+	./eigensdk-go
 	./zenbtc
 	./zenrock-avs
 	./zenrock/bitcoin-proxy
@@ -10,12 +11,12 @@ use (
 )
 
 replace github.com/Zenrock-Foundation/zrchain/v5 v5.0.1 => ./zrchain
+
 replace github.com/zenrocklabs/zenrock/zrchain => ./zrchain
-replace github.com/zenrocklabs/zenbtc v1 => ./zenbtc
 
+replace github.com/zenrocklabs/zenbtc v1.0.0 => ./zenbtc
 
-//replace github.com/Zenrock-Foundation/zrchain/v5 v5.0.1 => ./zrchain
-//replace github.com/Zenrock-Foundation/zrchain/v5/app  => ./zrchain
-//replace github.com/Zenrock-Foundation/zrchain/v5/cmd/zenrockd/cmd  => ./zrchain
-//replace github.com/Zenrock-Foundation/zrchain/v5/cmd/zenrockd/cmd  => ./zrchain
-//replace github.com/zenrocklabs/zenbtc/x/zenbtc/types => ./zenbtc
+replace github.com/btcsuite/btcd/btcec => ./zenrock/bitcoin-proxy
+
+//replace github.com/Layr-Labs/eigensdk-go => github.com/zenrocklabs/eigensdk-go v0.1.7-zenrock
+replace github.com/Layr-Labs/eigensdk-go v0.1.7-0.20240425202952-954cd7661775 => ./eigensdk-go
