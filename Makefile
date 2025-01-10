@@ -77,7 +77,7 @@ keyringreset:
 proxystart:
 	@echo "Running target: proxystart"
 	cd zenrock/bitcoin-proxy && \
-    go run cmd/main.go config_zenbtc.yml
+    go run cmd/main.go config_zenbtc_local.yml
 
 proxybuild:
 	@echo "Running target: proxybuild"

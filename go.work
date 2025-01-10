@@ -2,6 +2,8 @@ go 1.23.2
 
 use (
 	./zenrock/bitcoin-proxy
+	./zenrock/keyring
+	./zenrock/tools/relayer
 	./zrchain
 	./zenbtc
 )

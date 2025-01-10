@@ -1,19 +1,4 @@
 
-Create Address
-Add Funds
-Check Lock
-
-Trigger Burn Test
-Check Redemption List Pull
-Check TX generation
-Check TX Transmit to zrchain
-Add Decode + Check
-Check Signing
-Check Broadcast
 
 
-1st 5 Addresses are Change
-
-
-
-Add Indidentifier to Redemptions
+1. Improve logging to use loglevl
