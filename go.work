@@ -12,3 +12,4 @@ replace github.com/Zenrock-Foundation/zrchain/v5 v5.0.0 => ./zrchain
 replace github.com/zenrocklabs/zenrock/zrchain => ./zrchain
 replace github.com/btcsuite/btcd/btcec => ./zenrock/bitcoin-proxy
 replace github.com/zenrocklabs/zenbtc/x/zenbtc/types => ./zenbtc
+replace github.com/cosmos/cosmos-sdk => github.com/zenrocklabs/cosmos-sdk v0.50.10-zenrock
